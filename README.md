@@ -1,4 +1,4 @@
-# Roblox-Ground-Funds-Checker
+# Roblox-Group-Funds-Checker
 Very simple program with two very simple files.
 # Proxies.txt
 It is recommended that one use proxies, formatted in the file as " IP:PORT:USERNAME:PASSWORD"
